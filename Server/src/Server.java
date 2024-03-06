@@ -6,8 +6,7 @@ import java.awt.event.ActionListener;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 import java.io.*;
-import java.net.ServerSocket;
-import java.net.Socket;
+import java.net.ServerSocket;import java.net.Socket;
 import java.util.ArrayList;
 
 public class Server {
